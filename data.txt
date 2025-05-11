@@ -1,0 +1,4 @@
+Level: 1
+Player 1 position: 1140,620
+Player 1 lives: 3
+Game timer: 3.86
